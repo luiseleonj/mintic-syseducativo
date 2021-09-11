@@ -4,7 +4,7 @@ Este repositorio tiene como proposito de llevar el control del sistema educativo
 
 ## Markdown
 
-Consultar
+Consultar que es markdown, y como escribir documentos .md
 
 ## Participantes
 
